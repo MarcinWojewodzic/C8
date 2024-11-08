@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "STM32C071KBU6")(type "KiCad")(uri "${KIPRJMOD}/Symbols/STM32C071KBU6.kicad_sym")(options "")(descr ""))
+  (lib (name "S2-LPQTR")(type "KiCad")(uri "${KIPRJMOD}/Symbols/S2-LPQTR.kicad_sym")(options "")(descr ""))
+  (lib (name "BALF-SPI2-01D3")(type "KiCad")(uri "${KIPRJMOD}/Symbols/BALF-SPI2-01D3.kicad_sym")(options "")(descr ""))
+  (lib (name "AT25DF021A-MAHN-T")(type "KiCad")(uri "${KIPRJMOD}/Symbols/AT25DF021A-MAHN-T.kicad_sym")(options "")(descr ""))
+  (lib (name "MB85RS64TPN-G-AMEWE1")(type "KiCad")(uri "${KIPRJMOD}/Symbols/MB85RS64TPN-G-AMEWE1.kicad_sym")(options "")(descr ""))
+  (lib (name "LSG_T676-P7Q7-1+N7P7-24")(type "KiCad")(uri "${KIPRJMOD}/Symbols/LSG_T676-P7Q7-1+N7P7-24.kicad_sym")(options "")(descr ""))
+)
