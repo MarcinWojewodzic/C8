@@ -11427,6 +11427,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "C8W1B1V1.0"
+		(at 138.78 108.99 90)
+		(layer "F.SilkS")
+		(uuid "0b72fc1e-0a5d-4f26-bb48-0f640915d69b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "U_TX"
 		(at 141.17 123.33 90)
 		(layer "F.SilkS")
